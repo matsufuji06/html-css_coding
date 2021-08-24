@@ -15,6 +15,10 @@ h1 {
   padding: 30px;
 }
 
+.control {
+  margin-top: 30px;
+}
+
 input {
   border: none;
   border-bottom: 1px solid #d1d1d1;
@@ -22,6 +26,7 @@ input {
   width: 100%;
   padding: 8px;
 }
+
 button {
   width: 100%;
   background-color: #2096f3;
@@ -30,4 +35,22 @@ button {
   border: none;
   border-radius: 3px;
   box-shadow: 0 0 8px rgba(0, 0, 0, .4);
+  margin-top: 30px;
+}
+
+.required{
+  color: #f33;
+  font-size: .9em;
+  padding: 3px;
+  background-color: #fee;
+  font-weight: bold;
+}
+
+body {
+  background-color: #fafafa;
+}
+
+label {
+  display: block;
+  margin-bottom: 20px;
 }
