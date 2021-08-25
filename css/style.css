@@ -65,6 +65,7 @@ label {
   width: 800px;
   box-shadow: 0 0 10px rgba(0, 0, 0, .3);
   margin: 0 auto;
+  margin-top: 50px;
 }
 
 header {
