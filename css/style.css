@@ -79,7 +79,9 @@ header > h1 {
   text-align: center;
 }
 
-
+.description {
+  clear: left;
+}
 
 .information h1 {
   font-size: 18px;
