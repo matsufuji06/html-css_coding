@@ -133,5 +133,11 @@ header > h1 {
   width: 50%;
   float: left;
   padding: 5px 10px;
-  
+
+}
+
+.clearfix::after {
+  content: " ";
+  display: table;
+  clear: both;
 }
